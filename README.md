@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi there! I'm Lae TG</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>I am a budding developer, curious and motivated, exploring new technologies and solving creative problems in the world of web development.</p>
+<p>I am a developer jr, curious and motivated, exploring new technologies and solving creative problems in the world of web development.</p>
 <br>
 
 <h2>About me</h2>
