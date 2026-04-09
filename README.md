@@ -19,9 +19,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <br>
 
- <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
  <code><img height="50" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
  <code><img height="50" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></code>
@@ -30,6 +27,9 @@
  <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/mui/mui-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
  <code><img height="50" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
